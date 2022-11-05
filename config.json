@@ -1,8 +1,9 @@
 {
-    "key_path":"/home/nitesh/.aws/aws-bt3Local.pem",
+    "key_path":"/home/nitesh/.ssh/bt3-localAWS.pem",
     "key_name":"aws-bt3Local",
     "ami_id":"ami-0c4e4b4eb2e11d1d4",
     "instance_type":"t2.micro",
-    "region_name":"us-east-1"
+    "region_name":"us-east-1",
+    "ec2_data_path":"./ec2_data.json"
 
 }
