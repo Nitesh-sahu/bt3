@@ -90,6 +90,7 @@ print("jenkin version 13 checking")
 print("jenkin version 14 checking")
 print("jenkin version 15 checking")
 print("jenkin version 16 checking")
+print("jenkin version 17 checking")
 
 
 # git checkout -b master
